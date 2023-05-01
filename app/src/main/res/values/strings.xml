@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UtilizandoAbas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home</string>
+    <string name="inscricoes_blank_fragment">Inscrições</string>
+    <string name="em_alta_blank_fragment">Em Alta</string>
+</resources>
